@@ -1,10 +1,10 @@
 .title{
     background-color: lightblue;
-    color: green;
+    color: rgb(10, 85, 172);
     font-size: large;
     font-family: 'Courier New', Courier, monospace;
 
 }
 body{
-    background-color: rgb(28, 167, 214);
+    background-color: lightpink;
 }
